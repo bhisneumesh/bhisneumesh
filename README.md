@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhisneumesh
+- 👋 Hi, I’m Bhisne Umesh
 - 👀 I’m interested in Machine Learning and Deep Learning.
 - 🌱 I’m currently pursuing MTech with specialization in Artificial Intelligence.
 - 💞️ I’m looking to collaborate on people having passion for Machine Learning.
